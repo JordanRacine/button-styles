@@ -52,3 +52,8 @@ div {
   color: #000;
   border-color: #000;
 }
+
+.btn-ghost:hover {
+  background-color: #666;
+  border-color: #666;
+}
