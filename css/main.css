@@ -44,7 +44,6 @@ div {
 
 .btn-subtle:hover {
   background-color: #666;
-  border-color: #666;
 }
 
 .btn-ghost {
@@ -56,4 +55,15 @@ div {
 .btn-ghost:hover {
   background-color: #666;
   border-color: #666;
+}
+
+.btn-warning {
+  background-color: #f33;
+  color: #fff;
+  border-color: #f33;
+}
+
+.btn-warning:hover {
+  background-color: #933;
+  border-color: #933;
 }
